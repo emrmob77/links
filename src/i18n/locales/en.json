@@ -1,0 +1,74 @@
+{
+  "common": {
+    "appName": "Bookmarks",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "alreadyHaveAccount": "Already have an account? Sign in",
+    "dontHaveAccount": "Don't have an account? Sign up",
+    "signInSuccess": "Successfully signed in!",
+    "signUpSuccess": "Successfully signed up! Please check your email for verification.",
+    "adminRequired": "Admin privileges required for this action.",
+    "signInRequired": "Please sign in to perform this action."
+  },
+  "bookmarks": {
+    "add": "Add Bookmark",
+    "edit": "Edit Bookmark",
+    "delete": "Delete Bookmark",
+    "url": "URL",
+    "title": "Title",
+    "description": "Description",
+    "tags": "Tags",
+    "addTag": "Add tag",
+    "public": "Public",
+    "private": "Private",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search bookmarks...",
+    "noBookmarks": "No bookmarks found",
+    "clearFilter": "Clear Filter",
+    "importFromChrome": "Import from Chrome",
+    "importSuccess": "Successfully imported {{imported}} bookmarks{{failed}}",
+    "importFailed": "failed to import",
+    "importError": "Error importing bookmarks. Please check the file format.",
+    "pinnedByAdmin": "Pinned by Admin",
+    "pinUnpinTooltip": "Pin/Unpin",
+    "pinToggleSuccess": "Pin status updated",
+    "yourStats": "Your Stats",
+    "inLanguage": "in {{language}}",
+    "addSuccess": "Bookmark added successfully",
+    "updateSuccess": "Bookmark updated successfully",
+    "deleteSuccess": "Bookmark deleted successfully"
+  },
+  "tabs": {
+    "all": "All Bookmarks",
+    "myBookmarks": "My Bookmarks",
+    "favorites": "Favorites",
+    "trending": "Trending"
+  },
+  "tags": {
+    "popular": "Popular Tags"
+  },
+  "languages": {
+    "tr": "Turkish",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "es": "Spanish",
+    "it": "Italian",
+    "pt": "Portuguese"
+  },
+  "meta": {
+    "title": "Bookmarks - Save Your Favorite Sites",
+    "description": "Save, organize and share your favorite websites with our bookmark manager.",
+    "tagTitle": "Best {tag} Sites - Bookmarks",
+    "tagDescription": "Find the best {tag} websites here. Click to explore and add links."
+  }
+}

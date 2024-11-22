@@ -1,0 +1,45 @@
+{
+  "common": {
+    "appName": "Signets",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "success": "Succès"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "signOut": "Se déconnecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "alreadyHaveAccount": "Vous avez déjà un compte ? Connectez-vous",
+    "dontHaveAccount": "Pas de compte ? Inscrivez-vous"
+  },
+  "bookmarks": {
+    "add": "Ajouter un signet",
+    "edit": "Modifier le signet",
+    "delete": "Supprimer le signet",
+    "url": "URL",
+    "title": "Titre",
+    "description": "Description",
+    "tags": "Tags",
+    "addTag": "Ajouter un tag",
+    "public": "Public",
+    "private": "Privé",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "search": "Rechercher des signets...",
+    "noBookmarks": "Aucun signet trouvé"
+  },
+  "tabs": {
+    "all": "Tous les signets",
+    "myBookmarks": "Mes signets",
+    "favorites": "Favoris",
+    "trending": "Tendances"
+  },
+  "meta": {
+    "title": "Signets - Enregistrez vos sites favoris",
+    "description": "Enregistrez, organisez et partagez vos sites web favoris.",
+    "tagTitle": "Meilleurs sites \"{tag}\" - Signets",
+    "tagDescription": "Découvrez les meilleurs sites \"{tag}\" ici. Cliquez pour explorer et ajouter des liens."
+  }
+}

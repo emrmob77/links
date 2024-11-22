@@ -1,0 +1,74 @@
+{
+  "common": {
+    "appName": "Yer İmleri",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "success": "Başarılı"
+  },
+  "auth": {
+    "signIn": "Giriş Yap",
+    "signUp": "Kayıt Ol",
+    "signOut": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "alreadyHaveAccount": "Zaten hesabınız var mı? Giriş yapın",
+    "dontHaveAccount": "Hesabınız yok mu? Kayıt olun",
+    "signInSuccess": "Giriş başarılı!",
+    "signUpSuccess": "Kayıt başarılı! Lütfen e-postanızı kontrol edin.",
+    "adminRequired": "Bu işlem için yönetici yetkisi gerekiyor.",
+    "signInRequired": "Bu işlem için giriş yapmanız gerekiyor."
+  },
+  "bookmarks": {
+    "add": "Yer İmi Ekle",
+    "edit": "Yer İmi Düzenle",
+    "delete": "Yer İmi Sil",
+    "url": "URL",
+    "title": "Başlık",
+    "description": "Açıklama",
+    "tags": "Etiketler",
+    "addTag": "Etiket ekle",
+    "public": "Herkese Açık",
+    "private": "Özel",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "search": "Yer imlerinde ara...",
+    "noBookmarks": "Yer imi bulunamadı",
+    "clearFilter": "Filtreyi Temizle",
+    "importFromChrome": "Chrome'dan İçe Aktar",
+    "importSuccess": "{{imported}} yer imi başarıyla içe aktarıldı{{failed}}",
+    "importFailed": "içe aktarılamadı",
+    "importError": "Yer imleri içe aktarılırken hata oluştu. Lütfen dosya formatını kontrol edin.",
+    "pinnedByAdmin": "Yönetici tarafından sabitlendi",
+    "pinUnpinTooltip": "Sabitle/Sabitlemeyi Kaldır",
+    "pinToggleSuccess": "Sabitleme durumu güncellendi",
+    "yourStats": "İstatistikleriniz",
+    "inLanguage": "{{language}} dilinde",
+    "addSuccess": "Yer imi başarıyla eklendi",
+    "updateSuccess": "Yer imi başarıyla güncellendi",
+    "deleteSuccess": "Yer imi başarıyla silindi"
+  },
+  "tabs": {
+    "all": "Tüm Yer İmleri",
+    "myBookmarks": "Yer İmlerim",
+    "favorites": "Favorilerim",
+    "trending": "Trend"
+  },
+  "tags": {
+    "popular": "Popüler Etiketler"
+  },
+  "languages": {
+    "tr": "Türkçe",
+    "en": "İngilizce",
+    "fr": "Fransızca",
+    "de": "Almanca",
+    "es": "İspanyolca",
+    "it": "İtalyanca",
+    "pt": "Portekizce"
+  },
+  "meta": {
+    "title": "Yer İmleri - Favori Sitelerinizi Kaydedin",
+    "description": "Favori web sitelerinizi kaydedin, düzenleyin ve paylaşın.",
+    "tagTitle": "En İyi {tag} Siteleri - Yer İmleri",
+    "tagDescription": "En iyi {tag} siteleri bu sayfada yer alıyor. Sayfaları incelemek ve link eklemek için tıklayın."
+  }
+}

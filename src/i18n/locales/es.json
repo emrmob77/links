@@ -1,0 +1,45 @@
+{
+  "common": {
+    "appName": "Marcadores",
+    "loading": "Cargando...",
+    "error": "Se produjo un error",
+    "success": "Éxito"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta? Inicia sesión",
+    "dontHaveAccount": "¿No tienes cuenta? Regístrate"
+  },
+  "bookmarks": {
+    "add": "Añadir marcador",
+    "edit": "Editar marcador",
+    "delete": "Eliminar marcador",
+    "url": "URL",
+    "title": "Título",
+    "description": "Descripción",
+    "tags": "Etiquetas",
+    "addTag": "Añadir etiqueta",
+    "public": "Público",
+    "private": "Privado",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "search": "Buscar marcadores...",
+    "noBookmarks": "No se encontraron marcadores"
+  },
+  "tabs": {
+    "all": "Todos los marcadores",
+    "myBookmarks": "Mis marcadores",
+    "favorites": "Favoritos",
+    "trending": "Tendencias"
+  },
+  "meta": {
+    "title": "Marcadores - Guarda tus sitios favoritos",
+    "description": "Guarda, organiza y comparte tus sitios web favoritos.",
+    "tagTitle": "Mejores sitios de \"{tag}\" - Marcadores",
+    "tagDescription": "Encuentra aquí los mejores sitios de \"{tag}\". Haz clic para explorar y añadir enlaces."
+  }
+}

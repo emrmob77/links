@@ -1,0 +1,45 @@
+{
+  "common": {
+    "appName": "Lesezeichen",
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolg"
+  },
+  "auth": {
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "signOut": "Abmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "alreadyHaveAccount": "Bereits ein Konto? Anmelden",
+    "dontHaveAccount": "Kein Konto? Registrieren"
+  },
+  "bookmarks": {
+    "add": "Lesezeichen hinzufügen",
+    "edit": "Lesezeichen bearbeiten",
+    "delete": "Lesezeichen löschen",
+    "url": "URL",
+    "title": "Titel",
+    "description": "Beschreibung",
+    "tags": "Tags",
+    "addTag": "Tag hinzufügen",
+    "public": "Öffentlich",
+    "private": "Privat",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "search": "Lesezeichen durchsuchen...",
+    "noBookmarks": "Keine Lesezeichen gefunden"
+  },
+  "tabs": {
+    "all": "Alle Lesezeichen",
+    "myBookmarks": "Meine Lesezeichen",
+    "favorites": "Favoriten",
+    "trending": "Trending"
+  },
+  "meta": {
+    "title": "Lesezeichen - Speichern Sie Ihre Lieblings-Websites",
+    "description": "Speichern, organisieren und teilen Sie Ihre Lieblings-Websites.",
+    "tagTitle": "Beste \"{tag}\" Websites - Lesezeichen",
+    "tagDescription": "Finden Sie hier die besten \"{tag}\" Websites. Klicken Sie, um zu erkunden und Links hinzuzufügen."
+  }
+}

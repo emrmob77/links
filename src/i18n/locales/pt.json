@@ -1,0 +1,45 @@
+{
+  "common": {
+    "appName": "Favoritos",
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "success": "Sucesso"
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "signUp": "Registrar",
+    "signOut": "Sair",
+    "email": "Email",
+    "password": "Senha",
+    "alreadyHaveAccount": "Já tem uma conta? Entre",
+    "dontHaveAccount": "Não tem conta? Registre-se"
+  },
+  "bookmarks": {
+    "add": "Adicionar favorito",
+    "edit": "Editar favorito",
+    "delete": "Excluir favorito",
+    "url": "URL",
+    "title": "Título",
+    "description": "Descrição",
+    "tags": "Tags",
+    "addTag": "Adicionar tag",
+    "public": "Público",
+    "private": "Privado",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "search": "Pesquisar favoritos...",
+    "noBookmarks": "Nenhum favorito encontrado"
+  },
+  "tabs": {
+    "all": "Todos os favoritos",
+    "myBookmarks": "Meus favoritos",
+    "favorites": "Favoritos",
+    "trending": "Tendências"
+  },
+  "meta": {
+    "title": "Favoritos - Salve seus sites favoritos",
+    "description": "Salve, organize e compartilhe seus sites favoritos.",
+    "tagTitle": "Melhores sites \"{tag}\" - Favoritos",
+    "tagDescription": "Encontre aqui os melhores sites \"{tag}\". Clique para explorar e adicionar links."
+  }
+}

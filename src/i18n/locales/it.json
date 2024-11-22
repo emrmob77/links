@@ -1,0 +1,45 @@
+{
+  "common": {
+    "appName": "Segnalibri",
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "success": "Successo"
+  },
+  "auth": {
+    "signIn": "Accedi",
+    "signUp": "Registrati",
+    "signOut": "Esci",
+    "email": "Email",
+    "password": "Password",
+    "alreadyHaveAccount": "Hai già un account? Accedi",
+    "dontHaveAccount": "Non hai un account? Registrati"
+  },
+  "bookmarks": {
+    "add": "Aggiungi segnalibro",
+    "edit": "Modifica segnalibro",
+    "delete": "Elimina segnalibro",
+    "url": "URL",
+    "title": "Titolo",
+    "description": "Descrizione",
+    "tags": "Tag",
+    "addTag": "Aggiungi tag",
+    "public": "Pubblico",
+    "private": "Privato",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "search": "Cerca segnalibri...",
+    "noBookmarks": "Nessun segnalibro trovato"
+  },
+  "tabs": {
+    "all": "Tutti i segnalibri",
+    "myBookmarks": "I miei segnalibri",
+    "favorites": "Preferiti",
+    "trending": "Tendenze"
+  },
+  "meta": {
+    "title": "Segnalibri - Salva i tuoi siti preferiti",
+    "description": "Salva, organizza e condividi i tuoi siti web preferiti.",
+    "tagTitle": "Migliori siti \"{tag}\" - Segnalibri",
+    "tagDescription": "Trova qui i migliori siti \"{tag}\". Clicca per esplorare e aggiungere link."
+  }
+}
